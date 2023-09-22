@@ -2,7 +2,7 @@
 ![Solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=berrydelicious&theme=warm)
 # Project
 - [부산 지하철 이용 정보](https://github.com/fabbitox/subway)
-<!-- [하천 수위 예측](https://github.com/fabbitox/flow)-->
+- [하천 수위 예측](https://github.com/fabbitox/flow)
 - [랜덤 이미지 생성기](https://github.com/fabbitox/random-image-generator)
 - [배그나 노래 리스트](https://fabbitox.github.io/baegna-song/)
 # Skill
